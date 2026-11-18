@@ -1,0 +1,8 @@
+## Copier ce fichier en "local.properties" et adapter les chemins.
+## Ne jamais versionner local.properties (voir .gitignore).
+
+sdk.dir=C:\\Users\\LENOVO\\AppData\\Local\\Android\\Sdk
+
+## Clé API Google Maps (obligatoire pour la carte).
+## Ne jamais committer la vraie valeur.
+MAPS_API_KEY=VOTRE_CLE_API_ICI

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tailles_libelles">
+        <item>Petite</item>
+        <item>Moyenne</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="tailles_valeurs">
+        <item>14</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="couleurs_libelles">
+        <item>Noir</item>
+        <item>Bleu</item>
+        <item>Vert</item>
+        <item>Rouge</item>
+        <item>Violet</item>
+    </string-array>
+    <string-array name="couleurs_valeurs">
+        <item>#000000</item>
+        <item>#1A56DB</item>
+        <item>#15803D</item>
+        <item>#B91C1C</item>
+        <item>#6D28D9</item>
+    </string-array>
+</resources>

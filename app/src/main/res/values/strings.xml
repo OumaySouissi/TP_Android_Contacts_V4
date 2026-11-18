@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="filtre_hint">Filtrer les contacts…</string>
+    <string name="ajouter_contact">Ajouter un contact</string>
+    <string name="action_parametres">Paramètres</string>
+    <string name="hint_nom">Nom *</string>
+    <string name="hint_prenom">Prénom *</string>
+    <string name="hint_telephone">Téléphone *</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_latitude">Latitude (optionnel)</string>
+    <string name="hint_longitude">Longitude (optionnel)</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="btn_annuler">Annuler</string>
+    <string name="btn_supprimer">Supprimer</string>
+    <string name="btn_appeler">Appeler</string>
+    <string name="btn_email">E-mail</string>
+    <string name="btn_galerie">Galerie</string>
+    <string name="btn_camera">Caméra</string>
+    <string name="btn_carte">Voir sur la carte</string>
+    <string name="titre_creation">Nouveau contact</string>
+    <string name="titre_detail">Contact</string>
+    <string name="confirmation_suppression">Supprimer ce contact ?</string>
+    <string name="erreur_champs_requis">Nom, prénom et téléphone sont obligatoires.</string>
+    <string name="erreur_gps">Coordonnées GPS invalides (latitude entre -90 et 90, longitude entre -180 et 180).</string>
+    <string name="contact_introuvable">Contact introuvable.</string>
+    <string name="aucun_numero">Aucun numéro de téléphone.</string>
+    <string name="aucune_app_telephone">Aucune application pour passer un appel.</string>
+    <string name="aucune_app_email">Aucune application pour envoyer un e-mail.</string>
+    <string name="position_absente">Aucune coordonnée GPS pour ce contact.</string>
+    <string name="photo_absente">Aucune photo</string>
+</resources>
